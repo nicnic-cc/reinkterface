@@ -18,7 +18,7 @@ Changes to the code:
 
 ## Hardware needed
 - Board - [XIAO ePaper Display Board(ESP32-S3) - EE04](https://www.seeedstudio.com/XIAO-ePaper-Display-Board-EE04-p-6560.html)
-- E-Ink Panel - [Waveshare 4.26" e-ink display 800x480](https://www.waveshare.com/4.26inch-e-paper.htm)
+- E-Ink Panel - [Waveshare 5.83" e-ink display 648x480px](https://www.waveshare.com/5.83inch-e-paper.htm)
 
 ## Building and uploading firmware
 - Install PlatformIO for your system
