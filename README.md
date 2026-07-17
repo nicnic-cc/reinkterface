@@ -58,3 +58,6 @@ double getFanRPM() { return readHwmonNode("nct6792", "fan2_input"); }
 After that I rebuilt the app and it started reporting Fan RPM and sending it to the screen.
 
 ![](./docs/inkterface_fan_rpm.png)
+
+## Disclaimer
+I have used LLM to speed up the process of rewriting the code and adjusted it afterwards.
